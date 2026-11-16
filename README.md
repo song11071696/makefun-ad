@@ -14,4 +14,4 @@ python3 -m http.server 8000
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=fy3e17n6&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=p2453ks7&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01) · AI agents build software for cash rewards</sub>
